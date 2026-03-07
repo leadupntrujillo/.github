@@ -56,11 +56,13 @@ Formar a los estudiantes **líderes** con un perfil profesional de excelencia, f
 - Productor de Contenidos.
 - Diseñador & Editor de Contenido.
 
+<!--
 ### 5. Alianzas y Convenios
 
 - **Identificar🔍** emprendimientos, startups, marcas, organizaciones y profesionales que puedan conventirse en **aliados estratégicos** de **LEAD UPN.**
 - **Proponer alianzas🤝** que generen beneficios para la comunidad estudiantil (descuentos, talleres, mentorías, eventos, experiencias, oportunidades laborales).
-    
+ -->
+
 <h2>
     <img src="../public/rocket.gif" width="35"> Proyectos
 </h2>
@@ -83,9 +85,3 @@ Estos son algunos de los proyectos desarrollados por nuestra organización, enfo
         <img align="center" alt="Lead UPN Trujillo LinkedIn" width="40" src="../public/linkedin.svg"> &nbsp;&nbsp;&nbsp;
     </a>
 </p>
-
-<h2>
-    <img src="../public/documents.gif" width="30"> Licencia
-</h2>
-
-Type licence
