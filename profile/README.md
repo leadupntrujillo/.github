@@ -2,11 +2,7 @@
 
 ![Lead UPN Trujillo](../public/lead_upn_tru.png)
 
-_**(Lead Upn Trujillo)** es una organización de la Universidad Privada del Norte en la ciudad de Trujillo, fundada un **5 de noviembre de 1994 en Trujillo (campus El Molino, luego San Isidro en 2012)**._
-
-_Acreditada nacional e internacionalmente (SINEACE, ABET, ICACIT), reconocida en rankings como QS, MERCO y Scimago._
-
-_Teniendo a miles de estudiantes en pregrado y posgrado, con carreras en áreas de ingeniería, derecho, administración, psicología, comunicaciones y más, formando profesionales competitivos a nivel nacional e internacional._
+_**(Lead Upn Trujillo)** es una organización de la Universidad Privada del Norte en la ciudad de Trujillo, fundada en **Agosto de 2025 en Trujillo (campus El Molino, luego San Isidro)**._
 
 <h2>
     <img src="../public/org_emoji_animated.gif" width="35"> Quienes somos
